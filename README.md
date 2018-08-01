@@ -37,7 +37,7 @@
 - gir rebase --about 终止此次rebase
 - git merge 分支名 --- 远程上游仓库与本地仓库合并
 
-# linux命令总结：
+# Linux命令总结：
 ## 1.基本操作：
 - cd 文件名 -- 进入某个文件夹
 - cd .. -- 返回上一层
